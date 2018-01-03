@@ -10,21 +10,6 @@ Open the Terminal inside the SceneDensity directory, activate the virtual enviro
 workon OpenCV
 ```
 
-Use the following command to run the annotation tool. You will see an instruction about how to use this tool.
-
-```sh
-python annotate.py
-```
-
-## In Windows 10
-
-Open command prompt and use the command below to run the tool.You will see an instruction about how to use this tool.
-
-```sh
-python annotate.py
-```
-
-
 # Install OpenCV on Ubuntu
 
 ## Install dependencies
